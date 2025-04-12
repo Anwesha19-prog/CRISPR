@@ -43,4 +43,4 @@ The dataset consists of cell lines subjected to **CRISPR knockout** of two genes
 Ensure the following Python libraries are installed before running the code:
 
 ```python
-pip install eaborn
+pip install seaborn
