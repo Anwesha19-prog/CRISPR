@@ -12,6 +12,9 @@ Description:
 ## Overview
 
 This repository contains Python code for analyzing CRISPR knockout effects on gene expression and fluorescence-based uptake measurements. The dataset includes information on different **cell lines**, **genes**, **log2 fold changes (log2FC) in gene expression**, and **ICG uptake** values.
+
+
+
 **#Images**
 ![CRISPR_coloncells1](https://github.com/user-attachments/assets/669f1434-547e-4072-a8ee-c51528706687)
 ![CRISPR_coloncells2](https://github.com/user-attachments/assets/13a28650-b66d-4a88-938c-84df3061983d)
