@@ -1,7 +1,7 @@
 CRISPR_gene_analysis
 
 Python Script 
-Author: Anwesha Sarkar
+Author: Dr. Anwesha Sarkar
 
 Date: December 19, 2023
 
